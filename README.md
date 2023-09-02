@@ -1,4 +1,4 @@
-# PI3
+# fastibular
 # Projeto Integrador 3
 # Funcionalidades:
 # -Cadastro/Login
