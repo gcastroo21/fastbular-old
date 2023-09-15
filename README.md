@@ -11,3 +11,7 @@
 # -Análise Custo X Benefício 
 # -Forúm personalizado para cada universidade 
 # -Link do Trello para organizar e definir as tarefas de cada integrante: https://trello.com/b/o1wtiNfN/pi-fastbular
+# -Feed para poder acompanhar as noticias mais recentes sobre os vestibulares
+# -Filtro avançado que permite utilizar a renda, a cidade, e três cursos que deseja para poder filtrar as melhores faculdades
+# -Possibilidade de assim que encontrar a faculdade que deseja ser direcionado para inscrição do vestibular em questão
+
