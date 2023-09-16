@@ -27,6 +27,12 @@
 -Filtro avançado que permite utilizar a renda, a cidade, e três cursos que deseja para poder filtrar as melhores faculdades
 <br>
 -Possibilidade de assim que encontrar a faculdade que deseja ser direcionado para inscrição do vestibular em questão
+<br>
+-Lista de faculdades que oferencem descontos além do vestibular
+<br>
+-comparar nota MEC de cada faculdade para o curso desejado
+<br>
+-Mostrar todos os programas de estudo da faculdade além da graduação
 
 
 <h4>Tela de Home</h4>
