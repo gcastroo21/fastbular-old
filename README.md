@@ -1,4 +1,4 @@
-<h1>Fastibular</h1>
+<h1>Fastbular</h1>
 
 <h2>Funcionalidades:</h2>
 
