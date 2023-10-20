@@ -4,23 +4,13 @@
 
 -Cadastro/Login
 <br>
--Comparar notas de corte das melhores universidades do mundo
-<br>
--Analisar cursos de foco 
+-Comparar notas de corte das melhores universidades do mundo 
 <br>
 -Comparar preços 
 <br>
--Chat interativo para os vestibulandos
-<br>
--Dicas para estudantes para auxiliar com seus objetivos
-<br>
--Verificar faculdades mais próximas de seu endereço
+-Filtrar localidades das faculdades
 <br>
 -Análise Custo X Benefício 
-<br>
--Forúm personalizado para cada universidade 
-<br>
--Link do Trello para organizar e definir as tarefas de cada integrante: https://trello.com/b/o1wtiNfN/pi-fastbular
 <br>
 -Feed para poder acompanhar as noticias mais recentes sobre os vestibulares
 <br>
